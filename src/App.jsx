@@ -1,9 +1,10 @@
-import CounterApp from './components/01-useState/CounterApp';
+import TodoApp from './08-reducer/TodoApp';
+// import './08-reducer/intro-reducer';
 
 const App = () => {
 	return (
 		<div>
-			<CounterApp />
+			<TodoApp />
 		</div>
 	);
 };
